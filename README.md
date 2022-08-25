@@ -1,3 +1,3 @@
 Mail: mojtabamoradli.work@gmail.com
 
-Web:  https://mojtabamoradli.ir
+Website:  https://mojtabamoradli.ir
