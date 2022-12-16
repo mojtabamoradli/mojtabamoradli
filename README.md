@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mojtaba! Find me @[mojtabamoradli.ir](https://mojtabamoradli.ir/) for downloading my resume and getting in touch.
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mojtaba! Find me @[mojtabamoradli.ir](https://mojtabamoradli.ir/) for my contacts and resume.
 
 <b align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="50"/>
