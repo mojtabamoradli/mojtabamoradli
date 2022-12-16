@@ -1,11 +1,5 @@
-Email: mojtabamoradli.work@gmail.com
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mojtaba, aerospace engineer and web developer. Find me @[mojtabamoradli.ir](https://mojtabamoradli.ir/)
 
-Website:  https://mojtabamoradli.ir
-
-
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mojtaba, aerospace engineer and web developer
-
-# 👨🏻‍💻 Techs I Use
 <b align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="matlab" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>
@@ -44,7 +38,7 @@ Website:  https://mojtabamoradli.ir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>
           
- + multer, JSON Server RESTFUL API, bcrypt, cryptr, ...
+ <b>+</b> multer, JSON Server RESTFUL API, bcrypt, cryptr, ...
           
 <b>
           
