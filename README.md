@@ -15,8 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" title="graphql" width="60" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="redis" width="60" height="50"/>
 <img src="https://brand.elastic.co/api/asset/download.svg?asset_id=59153139&auth=aW8G9BuwHJgTWmmGjy5OYw" title="elasticsearch" width="90" height="50"/>
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" title="trpc" width="50" height="50"/>
+                    
           
 </b>
           
